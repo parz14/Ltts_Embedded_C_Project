@@ -1,1 +1,7 @@
-# Ltts_Embedded_C_Project
+# Embedded C Programming 
+
+
+# Activities
+
+## Activity1
+![Activity1]()
