@@ -1,4 +1,4 @@
-# Embedded_Project By Ashrika Mishra (260267)
+# Embedded_Project By Paras jain (314151)
 
 ## Heat Control System
 
